@@ -1,0 +1,1 @@
+A iteration simulation written in Go. Originally written in python before hitting the GC lock on huge thread pools. Performance much better in Go but stopped during a refactor
